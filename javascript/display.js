@@ -1,9 +1,0 @@
-$(document).ready(function(){
-    $("#add").click(function(){
-      $("#form").show();
-      $("#display-contact").remove();
-    });
-    $("#home").click(function(){
-      $("#form").hide();
-    });
-  });
